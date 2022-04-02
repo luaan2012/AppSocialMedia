@@ -1,0 +1,46 @@
+body {
+    background-color: #14171a
+}
+
+.container {
+    margin-top: 130px;
+}
+.card-login {
+    padding: 30px 0 0 0;
+    width: 350px;
+    margin: 0 auto;
+}
+.card {
+    border-radius: 20px;
+    background-color: #080808
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+.form-control {
+    border-radius: 20px;
+}
+
+.btn {
+    border-radius: 20px;
+}
+
+.entrar{
+    background: linear-gradient(90deg, rgba(174, 175, 235, 0.993) 35%, rgba(133, 133, 161, 0.986) 86%, rgb(114, 113, 150) 97%);
+}
+.entrar:hover{
+    background: #1da1f2;
+}
+
+h6{
+    color: black;
+    padding-top: 5px;
+}
+
+label{
+    color: white;
+    margin-left: 4px;
+}
